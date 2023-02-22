@@ -8,6 +8,7 @@ Algumas anotações e receitas de um perdido na cozinha
 
 ### Receitas
 
+-   [Arroz com brócolis](https://github.com/BrunoTuy/rango-bom/blob/main/acompanhamento/arroz-brocolis.md)
 -   [Carne de panela com batatas](https://github.com/BrunoTuy/rango-bom/blob/main/carnes/carne-de-panela-com-batata.md)
 -   [Filé de frango com limão e orégano](https://github.com/BrunoTuy/rango-bom/blob/main/aves/file-frango-limao-oregano.md)
 -   [Filé de salmão com limão no grill](https://github.com/BrunoTuy/rango-bom/blob/main/peixe/salmao-no-grill.md)
