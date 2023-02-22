@@ -18,3 +18,5 @@
 6. Deixe até dourar sem mexer
 7. Retire com cuidado com uma espátula
 8. Sirva em uma cama de folhas de alface e acrescente o shoyu diretamente no prato
+
+[Home](https://github.com/BrunoTuy/rango-bom/tree/main)

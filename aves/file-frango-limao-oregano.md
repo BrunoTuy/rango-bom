@@ -18,3 +18,5 @@
 5. Com o filé fritando, adicione o suco da outra metade do limão, a pimenta e o orégano.
 6. Frite cada lado do frango por 5 a 10 minutos.
 7. Enfeite com a salsa e sirva.
+
+[Home](https://github.com/BrunoTuy/rango-bom/tree/main)

@@ -19,3 +19,5 @@
 5. Coloque na pressão por 25 minutos.
 6. Retire do fogo, tire a pressão e junte as batatas e a uma colher de chá de ervas finas.
 7. Coloque na pressão novamente e deixe por 5 minutos após a panela pegar pressão.
+
+[Home](https://github.com/BrunoTuy/rango-bom/tree/main)

@@ -19,3 +19,5 @@
 4. Escorra a água do penne e coloque-o no molho.
 5. Misture e deixe ferver até que o molho reduza bem e incorpore ao penne.
 6. Tempere como o sal a sirva com o queijo.
+
+[Home](https://github.com/BrunoTuy/rango-bom/tree/main)
