@@ -28,6 +28,7 @@
 - 240 °C - Extremamente quente
 - 250 °C - Extremamente quente
 
+#### Fonte
 ![Fonte](https://4.bp.blogspot.com/-SnnevEJDcXY/TpIx343soHI/AAAAAAAAArk/3RAqRVlivAQ/s640/tabela+de+medidas.jpg)
 
 [Home](https://github.com/BrunoTuy/rango-bom/tree/main)
