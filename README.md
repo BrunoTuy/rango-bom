@@ -3,6 +3,7 @@
 Algumas anotações e receitas de um perdido na cozinha
 
 ### Anotações
+-   [Medida e equivalência](https://github.com/BrunoTuy/rango-bom/blob/main/anotacoes/medidas-equivalencias.md)
 -   [Medida penne](https://github.com/BrunoTuy/rango-bom/blob/main/anotacoes/medida-penne.md)
 
 ### Receitas
