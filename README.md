@@ -14,3 +14,4 @@ Algumas anotações e receitas de um perdido na cozinha
 -   [Filé de salmão com limão no grill](https://github.com/BrunoTuy/rango-bom/blob/main/peixe/salmao-no-grill.md)
 -   [Penne ao limão](https://github.com/BrunoTuy/rango-bom/blob/main/massa/penne-ao-limao.md)
 -   [Salmao ao champignon](https://github.com/BrunoTuy/rango-bom/blob/main/peixe/salmao-ao-champignon.md)
+-   [Strogonoff](https://github.com/BrunoTuy/rango-bom/blob/main/aves/strogonoff.md)
